@@ -1,8 +1,10 @@
-Slides for Math 2 Industry talk: transitioning from academia into industry
+# Slides for Math 2 Industry talk: transitioning from academia into industry
 
 Event page: https://m2pi.ca/
 
 Facilitator: Laura Gutierrez Funderburk
+
+### How to access material
 
 Access material via nbgitpuller and PIMS Syzygy server https://tinyurl.com/m2pia2i
 
